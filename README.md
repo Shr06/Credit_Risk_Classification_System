@@ -4,7 +4,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 ![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-green)
 ![MLflow](https://img.shields.io/badge/MLflow-Experiment%20Tracking-blueviolet)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 
 ## Project Overview
 
@@ -279,14 +279,3 @@ Execute the notebooks in the following order:
 
 ---
 
-## Author
-
-**Shruthi A**
-
-Machine Learning | Data Science | Artificial Intelligence
-
----
-
-## License
-
-This project is licensed under the MIT License.
