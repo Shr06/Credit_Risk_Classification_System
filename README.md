@@ -89,13 +89,8 @@ Credit-Risk-Classification-System/
 │
 ├── images/
 │
-├── reports/
-│   └── Project_Report.pdf
-│
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── LICENSE
 ```
 
 ---
